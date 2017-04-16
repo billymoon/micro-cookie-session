@@ -24,7 +24,7 @@ $ npm install micro-cookie-session
 const micro = require('micro')
 
 // initiallise session
-const session = require('.')({
+const session = require('micro-cookie-session')({
   name: 'session',
   keys: ['someverystringsecretstring'],
   maxAge: 24 * 60 * 60 * 1000

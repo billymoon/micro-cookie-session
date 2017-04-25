@@ -5,7 +5,7 @@
 
 Simple cookie-based session storage for [micro](https://github.com/zeit/micro).
 
-Actually, a tiny a wrapper for the excellent [https://github.com/expressjs/cookie-session](cookie-session) express middleware.
+Actually, a tiny a wrapper for the excellent [cookie-session](https://github.com/expressjs/cookie-session) express middleware.
 
 ## Install
 

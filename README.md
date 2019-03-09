@@ -129,7 +129,7 @@ req.session = null
 
 ## Examples
 
-Further examples can be seen in (https://github.com/expressjs/cookie-session)
+Further examples can be seen in https://github.com/expressjs/cookie-session
 express middleware but have not been tested (please report any micro related issues).
 
 ## Usage Limitations
